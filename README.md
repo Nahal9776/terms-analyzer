@@ -1,4 +1,4 @@
-## 5. **Project Name:** `terms-analyzer`  
+##  **Project Name:** `terms-analyzer`  
 
 ```markdown
 # 📜 Terms & Conditions Analyzer
